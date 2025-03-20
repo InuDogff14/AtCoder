@@ -6,6 +6,7 @@
 |---|---|
 |001|[MyPage](https://atcoder.jp/users/InuDog9520)|
 |002|[AtCoderProblems](https://kenkoooo.com/atcoder/#/table/InuDog9520)|
+|003|[AtCoder-cli](https://github.com/Tatamo/atcoder-cli)|
 
 # 20250312
 - 少しずつC問題とかも解けるようになってきた
@@ -38,3 +39,14 @@
 - なんかAtCoder-Cliが調子悪い？
 - Submitできない；；
 - 少しずつ力ついてる感じがするのでこの調子で頑張りたい
+- なんかacc loginもできないtestはできた
+
+# 20250319
+- AtCoder-CLIが使えないので若干低浮上
+- どうやらCLOUDFLAREが原因でそうなってるっぽい
+- もうA問題は絶対解けると思うので、B～D問題くらいに範囲を広げた方がいいかも
+
+# 20250320
+- 今日もあまりできてない
+- 休日の使い方が下手
+- もっと計画立ててやらないともったいないと感じた一日だった
